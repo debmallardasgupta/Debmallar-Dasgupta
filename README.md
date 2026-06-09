@@ -72,9 +72,7 @@ hobbies:      "Competitive Programming", "Open Source", "Building Projects", "Wa
 
 ---
 
-## 🛠️ Tech Stack
 
-<!-- Replace / remove badges that don't apply to you -->
 
 ## 🛠️ Tech Stack
 
