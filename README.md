@@ -84,7 +84,7 @@ hobbies:      "Competitive Programming", "Open Source", "Building Projects", "Wa
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=debmallardasgupta&theme=tokyonight&hide_border=true" alt="debmallardasgupta" />
+<img src="https://streak-stats.demolab.com/?user=debmallardasgupta&theme=tokyonight&hide_border=true" alt="debmallardasgupta" />
 
 </div>
 
@@ -134,10 +134,6 @@ hobbies:      "Competitive Programming", "Open Source", "Building Projects", "Wa
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debmallardasgupta@gmail.com)
 
 </div>
-
----
-
----
 
 <div align="center">
 
