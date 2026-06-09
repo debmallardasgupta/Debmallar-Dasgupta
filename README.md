@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Replace YOUR_NAME with your name -->
 # Hi there, I'm Debmallar Dasgupta👋
 
-<!-- Replace YOUR_TAGLINE with your personal tagline/bio -->
 ### Software Developer | Competitive Programmer | Open Source Enthusiast
 
 <br/>
@@ -17,37 +15,6 @@
 ## 🐍 Watch My Contributions Get Eaten!
 
 <div align="center">
-
-<!-- 
-  SETUP INSTRUCTIONS FOR SNAKE ANIMATION:
-  1. Go to your GitHub repository: YOUR_USERNAME/YOUR_USERNAME
-  2. Create a new file at: .github/workflows/snake.yml
-  3. Paste this content into it:
-
-     name: Generate Snake Animation
-     on:
-       schedule:
-         - cron: "0 */12 * * *"
-       workflow_dispatch:
-     jobs:
-       build:
-         runs-on: ubuntu-latest
-         steps:
-           - uses: Platane/snk@v3
-             with:
-               github_user_token: ${{ secrets.GITHUB_TOKEN }}
-               outputs: |
-                 dist/github-snake.svg
-                 dist/github-snake-dark.svg?palette=github-dark
-           - uses: crazy-max/ghaction-github-pages@v3.1.0
-             with:
-               target_branch: output
-               build_dir: dist
-             env:
-               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  4. After the workflow runs, replace YOUR_USERNAME below with your GitHub username:
--->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/debmallardasgupta/debmallardasgupta/output/github-snake-dark.svg" />
@@ -71,8 +38,6 @@ hobbies:      "Competitive Programming", "Open Source", "Building Projects", "Wa
 ```
 
 ---
-
-
 
 ## 🛠️ Tech Stack
 
@@ -108,20 +73,18 @@ hobbies:      "Competitive Programming", "Open Source", "Building Projects", "Wa
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)](https://www.postman.com/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)](https://code.visualstudio.com/)
 
-
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<!-- Replace YOUR_USERNAME everywhere below -->
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=debmallardasgupta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debmallardasgupta&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=debmallardasgupta&theme=tokyonight&hide_border=true" alt="YOUR_USERNAME" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=debmallardasgupta&theme=tokyonight&hide_border=true" alt="debmallardasgupta" />
 
 </div>
 
@@ -130,8 +93,6 @@ hobbies:      "Competitive Programming", "Open Source", "Building Projects", "Wa
 ## 🏆 Competitive Programming
 
 <div align="center">
-
-<!-- Replace each YOUR_USERNAME / YOUR_HANDLE / YOUR_RATING with real values -->
 
 | Platform | Profile | Stats |
 |----------|---------|-------|
@@ -146,12 +107,10 @@ hobbies:      "Competitive Programming", "Open Source", "Building Projects", "Wa
 
 ## 🌟 Featured Projects
 
-<!-- Add your best 3–4 projects here -->
-
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/YOUR_REPO_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/YOUR_REPO_2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debmallardasgupta&repo=used-car-prediction&theme=tokyonight&hide_border=true)](https://github.com/debmallardasgupta/used-car-prediction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=debmallardasgupta&repo=NPTEL_JAVA&theme=tokyonight&hide_border=true)](https://github.com/debmallardasgupta/NPTEL_JAVA)
 
 </div>
 
@@ -159,9 +118,7 @@ hobbies:      "Competitive Programming", "Open Source", "Building Projects", "Wa
 
 ## 📈 Contribution Graph
 
-<!-- Replace YOUR_USERNAME -->
-
-[![YOUR_NAME's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Debmallar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=debmallardasgupta&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -169,16 +126,12 @@ hobbies:      "Competitive Programming", "Open Source", "Building Projects", "Wa
 
 <div align="center">
 
-<!-- Replace each link/handle with yours -->
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debmallar-dasgupta-281126371/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/debmallar)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/whileTrueDebug/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/debmallar2005)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/whiletruedebug)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://debmallardasgupta@gmail.com)
-
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debmallardasgupta@gmail.com)
 
 </div>
 
@@ -190,7 +143,7 @@ hobbies:      "Competitive Programming", "Open Source", "Building Projects", "Wa
 
 If you find my projects useful, consider buying me a coffee!
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/YOUR_BMC_HANDLE)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/debmallardasgupta)
 
 </div>
 
@@ -198,11 +151,9 @@ If you find my projects useful, consider buying me a coffee!
 
 <div align="center">
 
-<!-- Replace YOUR_USERNAME -->
-
 ![Profile Views](https://komarev.com/ghpvc/?username=debmallardasgupta&color=6AD3F7&style=flat-square&label=Profile+Views)
 
-*"[YOUR_FAVOURITE_QUOTE]"*
+*"First, solve the problem. Then, write the code."*
 
 **Thanks for visiting! Drop a ⭐ on any repo you find helpful.**
 
