@@ -137,15 +137,6 @@ hobbies:      "Competitive Programming", "Open Source", "Building Projects", "Wa
 
 ---
 
-## ☕ Support My Work
-
-<div align="center">
-
-If you find my projects useful, consider buying me a coffee!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/debmallardasgupta)
-
-</div>
 
 ---
 
