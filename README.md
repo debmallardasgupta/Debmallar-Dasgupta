@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Replace YOUR_NAME with your name -->
-# Hi there, I'm [Debmallar Dasgupta] 👋
+# Hi there, I'm Debmallar Dasgupta👋
 
 <!-- Replace YOUR_TAGLINE with your personal tagline/bio -->
 ### Software Developer | Competitive Programmer | Open Source Enthusiast
@@ -133,10 +133,10 @@ fun_fact:     "Cinephile"
 
 | Platform | Profile | Stats |
 |----------|---------|-------|
-| 🟨 **LeetCode** | [YOUR_LEETCODE_USERNAME](https://leetcode.com/YOUR_LEETCODE_USERNAME/) | ![LeetCode](https://img.shields.io/badge/Solved-000%2B-orange?style=flat-square&logo=leetcode) |
-| 🔵 **Codeforces** | [YOUR_CF_HANDLE](https://codeforces.com/profile/YOUR_CF_HANDLE) | ![CF Rating](https://img.shields.io/badge/Rating-YOUR_RATING-blue?style=flat-square) |
-| 🟢 **CodeChef** | [YOUR_CC_HANDLE](https://www.codechef.com/users/YOUR_CC_HANDLE) | ![CC Stars](https://img.shields.io/badge/Stars-★★★-green?style=flat-square) |
-| 🟣 **HackerRank** | [YOUR_HR_HANDLE](https://www.hackerrank.com/YOUR_HR_HANDLE) | ![HR](https://img.shields.io/badge/5★-Gold-gold?style=flat-square) |
+| 🟨 **LeetCode** | [whileTrueDebug](https://leetcode.com/u/whileTrueDebug/) | ![LeetCode](https://img.shields.io/badge/Solved-300%2B-orange?style=flat-square&logo=leetcode) |
+| 🔵 **Codeforces** | [debmallar2005](https://codeforces.com/profile/debmallar2005) | ![CF Rating](https://img.shields.io/badge/Rating-980-gray?style=flat-square) |
+| 🟢 **CodeChef** | [whiletruedebug](https://www.codechef.com/users/whiletruedebug) | ![CC Stars](https://img.shields.io/badge/Stars-★★-green?style=flat-square) |
+| 🟣 **HackerRank** | [debmallardasgup1](https://www.hackerrank.com/profile/debmallardasgup1) | ![HR](https://img.shields.io/badge/3★-Gold-gold?style=flat-square) |
 
 </div>
 
@@ -174,7 +174,7 @@ fun_fact:     "Cinephile"
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/whileTrueDebug/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/debmallar2005)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/whiletruedebug)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debmallardasgupta@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://debmallardasgupta@gmail.com)
 
 
 
