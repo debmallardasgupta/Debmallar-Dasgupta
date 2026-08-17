@@ -97,8 +97,8 @@ hobbies:      "Competitive Programming", "Open Source", "Building Projects", "Wa
 
 | Platform          | Profile                                                                 | Stats                                                                                          |
 | ----------------- | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| 🟨 **LeetCode**   | [whileTrueDebug](https://leetcode.com/u/whileTrueDebug/)                | ![LeetCode](https://img.shields.io/badge/Solved-300%2B-orange?style=flat-square&logo=leetcode) |
-| 🔵 **Codeforces** | [debmallar2005](https://codeforces.com/profile/debmallar2005)           | ![CF Rating](https://img.shields.io/badge/Rating-980-gray?style=flat-square)                   |
+| 🟨 **LeetCode**   | [whileTrueDebug](https://leetcode.com/u/whileTrueDebug/)                | ![LeetCode](https://img.shields.io/badge/Solved-450%2B-orange?style=flat-square&logo=leetcode) |
+| 🔵 **Codeforces** | [debmallar2005](https://codeforces.com/profile/debmallar2005)           | ![CF Rating](https://img.shields.io/badge/Rating-1217-green?style=flat-square)                   |
 | 🟢 **CodeChef**   | [whiletruedebug](https://www.codechef.com/users/whiletruedebug)         | ![CC Stars](https://img.shields.io/badge/Stars-★★-green?style=flat-square)                     |
 | 🟣 **HackerRank** | [debmallardasgup1](https://www.hackerrank.com/profile/debmallardasgup1) | ![HR](https://img.shields.io/badge/★★★-gold?style=flat-square)                                 |
 
