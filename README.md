@@ -1,7 +1,7 @@
-Hi there👋
+**Hi there👋**
 <div align="center">
 
-I'm Debmallar Dasgupta
+**I'm Debmallar Dasgupta**
 
 ### Software Developer | Competitive Programmer | Open Source Enthusiast
 
